@@ -1,0 +1,1 @@
+APP = document.getElementById("app")
